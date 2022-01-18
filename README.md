@@ -8,7 +8,7 @@ Download the Python script and make sure you have python installed.
 I use anaconda3, however the script should be able to run using pip since the script uses only basic libraries.
 
 ### setup
-The working directory must be the same folder you have the files in so make sure you move into that directory before running the script.
+The working directory must be the same folder you have the .afm files in so make sure you move into that directory before running the script.
 
 Installing
 ### testing
