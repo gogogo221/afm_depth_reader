@@ -1,5 +1,5 @@
 # afm_depth_reader
-python script to read all .afm files in directory and outputs a csv file
+python script to read all .afm files in directory and outputs a csv file 
 
 ## Getting Started
 Download the Python script and make sure you have python installed.
