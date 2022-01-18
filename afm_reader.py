@@ -50,8 +50,11 @@ for filename in listOfAFM: #loop through every file with .afm
                 dataDict = {} #dictionary to hold important information from each line
                 #dataDict["File"] = filename[:filename.find(".")-len(filename)] (if uncommented out, need to add "File" to fieldnames)
 
-    
-                dataDict["Station"] = filename.split()[-1][0:filename.find(".")-len(filename)].replace("_", ".") #sets station to station number in filename 
+                for z in filename.split()[-1]: #if the sta was improperly formatted, finds the first digit to use later
+                    if z.isdigit():
+                        number = filename.split()[-1].find(z)
+                        break
+                dataDict["Station"] = filename.split()[-1][number:filename.find(".")-len(filename)].replace("_", ".") #sets station to station number in filename 
                 dataDict["Cast"] = filename.split()[1] #sets cast to cast number in file name
                 dataDict["Pin"] = line[0] # sets pin to pin number on line
                 dataDict["Time"] = [s for s in line if ":" in s][0] #sets time to timevalue in line
