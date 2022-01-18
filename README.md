@@ -10,7 +10,6 @@ I use anaconda3, however the script should be able to run using pip since the sc
 ### setup
 The working directory must be the same folder you have the .afm files in so make sure you move into that directory before running the script.
 
-Installing
 ### testing
 I've attatched two example files for the program to read and output into a csv. Feel free to try if it works with the two test cnv files uploaded. I attached the output I get from this script using those two files as "out.csv".
 
