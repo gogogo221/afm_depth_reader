@@ -13,9 +13,9 @@ output_name='out.csv'
 import os, fnmatch, csv, re
 #%% 2. Create a list of btl files to iterate through
 #This chunk identifies all the btl files in a folder then fills their names into a list, listOfFiles
-listOfFiles = os.listdir('.') 
+listOfFiles = os.listdir('.') #gets all the files in the directory
 pattern = "*.afm" #filters what files get added into the listOfAFM list
-listOfAFM = []
+listOfAFM = [] #a list to hold all the .afm file names
 #gets a list of file names
 for name in listOfFiles: #iterate through all files
     if fnmatch.fnmatch(name, pattern):
