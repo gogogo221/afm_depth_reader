@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jan 17 13:03:06 2022
-@authors: Natalya Evans, Nathan Chan
+@author: Nathan Chan
 This script is designed to extract the pin, depth, and time from auto-fire module files from Seabird systems, then concatenate that data into a single csv file
 """
 
