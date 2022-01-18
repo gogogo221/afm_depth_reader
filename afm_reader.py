@@ -26,7 +26,7 @@ print("files to be read: ")
 print(listOfAFM)
 #%% 3. iterates through each file and scans for pin numbers; when it finds a pin number, it takes the next 5 lines of hex numbers and calculates depth
 #saves the station, cast, pin, time, and depth into a list of dictionaries that will be exported into a csv
-print("reading through " + str(len(listOfAFM)) + " keeping track of its data")
+print("reading through " + str(len(listOfAFM)) + " files and keeping track of its data")
 listOfAFM.sort(key=lambda f: int(re.sub('\D', '', f))) #sorts files based on numbers
 total_data = [] #list to hold the data
 for filename in listOfAFM: #loop through every file with .afm
