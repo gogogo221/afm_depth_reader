@@ -17,13 +17,16 @@ listOfFiles = os.listdir('.') #gets all the files in the directory
 pattern = "*.afm" #filters what files get added into the listOfAFM list
 listOfAFM = [] #a list to hold all the .afm file names
 #gets a list of file names
+
 for name in listOfFiles: #iterate through all files and add files that have .afm
     if fnmatch.fnmatch(name, pattern):
             name = name.lower()
             listOfAFM.append(name)
-
+print("files to be read: ")
+print(listOfAFM)
 #%% 3. iterates through each file and scans for pin numbers; when it finds a pin number, it takes the next 5 lines of hex numbers and calculates depth
 #saves the station, cast, pin, time, and depth into a list of dictionaries that will be exported into a csv
+print("reading through " + str(len(listOfAFM)) + " keeping track of its data")
 listOfAFM.sort(key=lambda f: int(re.sub('\D', '', f))) #sorts files based on numbers
 total_data = [] #list to hold the data
 for filename in listOfAFM: #loop through every file with .afm
@@ -57,6 +60,7 @@ for filename in listOfAFM: #loop through every file with .afm
                 
 
 #%% 4. outputs to a csv with "Station", "Cast",  "Pin", "Time", "Depth" as its field names
+print("outputting a heading and " + str(len(total_data)) + " lines of data into " + output_name)
 with open(output_name, "w") as outputFile: #opens/makes a csv file
     fieldnames = ["Station", "Cast",  "Pin", "Time", "Depth" ] #these are the fieldnames for the csv
     writer = csv.DictWriter(outputFile, fieldnames=fieldnames, lineterminator='\n') #makes a dictwriter to write data into the csv
