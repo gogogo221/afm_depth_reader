@@ -38,3 +38,5 @@ Station,Cast,Pin,Time,Depth
 
 Enjoy!
 -Nathan
+
+readme template from https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md
