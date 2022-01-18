@@ -17,7 +17,7 @@ listOfFiles = os.listdir('.') #gets all the files in the directory
 pattern = "*.afm" #filters what files get added into the listOfAFM list
 listOfAFM = [] #a list to hold all the .afm file names
 #gets a list of file names
-for name in listOfFiles: #iterate through all files
+for name in listOfFiles: #iterate through all files and add files that have .afm
     if fnmatch.fnmatch(name, pattern):
             name = name.lower()
             listOfAFM.append(name)
