@@ -1,0 +1,75 @@
+*	Sea-Bird SBE50 Da	ta File:								
+*	FileName = C:\Use	rs\jmoffett\Documents\Kilo	2019\Oceanus 2021\Summer Cruise\Cast 1 Sta 25.afm							
+*	Software Version	SeatermAF 2.1.4.55								
+*	Temperature SN =									
+*	Conductivity SN =									
+*	System UpLoad Tim	e = Aug 01 2021 10:29:50 (	localtime) = Aug 01 2021 17:29:50 (UTC)							
+*	ds									
+*	90208 AFM V 2.0d	SERIAL NO. 87  01 Aug 202	1 10:25:47							
+*	main battery = 12	.25 volts								
+*	lithium battery =	3.19 volts								
+*	AFM is NOT ARMED									
+*	A>									
+*E	ND*									
+										
+1	1   01 Aug 2021	08:46:16  confirmed   12.0	3760							
+	04AD000EB3									
+	04AD000EB4									
+	04AD000EB5									
+	04AC000EB6									
+	04AD000EB7									
+2	2   01 Aug 2021	08:55:48  confirmed   12.0	4331							
+	03FB0010EF					3FB		1019		919
+	03FB0010F0									
+	03FB0010F1									
+	03FC0010F2									
+	03FB0010F3									
+3	3   01 Aug 2021	08:58:35  confirmed   12.0	4497							
+	03B6001196					3B6		950		850
+	03B6001197									
+	03B5001198									
+	03B5001199									
+	03B400119A									
+4	4   01 Aug 2021	09:00:31  confirmed   11.9	4612							
+	038300120A					383		899		799
+	038300120B									
+	038200120C									
+	038200120D									
+	038200120E									
+5	5   01 Aug 2021	09:04:52  confirmed   11.9	4872							
+	030C00130F					30C		780		680
+	030C001310									
+	030C001311									
+	030D001312									
+	030C001313									
+6	7   01 Aug 2021	09:09:44  confirmed   11.9	5163							
+	289001433					289		649		549
+	289001434									
+	288001435									
+	288001436									
+	288001437									
+7	8   01 Aug 2021	09:12:04  confirmed   11.9	5302							
+	02490014BF					249		585		485
+	02490014C0									
+	02490014C1									
+	02490014C2									
+	02480014C3									
+8	9   01 Aug 2021	09:17:51  confirmed   11.9	5648							
+	01AD00161A					1AD		429		329
+	01AD00161B									
+	01AD00161C									
+	01AD00161D									
+	01AD00161E									
+9	10   01 Aug 2021	09:22:07  confirmed   11.	8  5903							
+	013B00171A					13B		315		215
+	013C00171B									
+	013C00171C									
+	013A00171D									
+	013900171E									
+10	11   01 Aug 202	1 09:23:28  confirmed   11	.8  5983							
+	011700176B					117		279		179
+	011700176C									
+	011700176D									
+	011600176E									
+	011500176F									
+A>										

@@ -1,0 +1,75 @@
+*	Sea-Bird SBE50 D	ata File:								
+*	FileName = C:\Us	ers\jmoffett\Documents\Kilo	2019\Oceanus 2021\Summer Cruise\Cast 2 Sta 14.afm							
+*	Software Version	SeatermAF 2.1.4.55								
+*	Temperature SN =									
+*	Conductivity SN	=								
+*	System UpLoad Ti	me = Jul 26 2021 05:53:58 (	localtime) = Jul 26 2021 12:53:58 (UTC)							
+*	ds									
+*	90208 AFM V 2.0d	SERIAL NO. 87  26 Jul 202	1 05:50:04							
+*	main battery = 1	2.38 volts								
+*	lithium battery	=  3.19 volts								
+*	AFM is NOT ARMED									
+*	A>									
+*E	ND*									
+										
+1	1   25 Jul 2021	16:00:43  confirmed   12.1	2420							
+	258000978					258		600		500
+	258000979									
+	025800097A									
+	025700097B									
+	025700097C									
+2	2   25 Jul 2021	16:04:43  confirmed   12.0	2659							
+	020C000A68					20C		524		424
+	020C000A69									
+	020C000A6A									
+	020B000A6B									
+	020B000A6C									
+3	3   25 Jul 2021	16:08:36  confirmed   12.0	2891							
+	01C2000B51					1C2		450		350
+	01C2000B52									
+	01C2000B53									
+	01C1000B54									
+	01C1000B55									
+4	4   25 Jul 2021	16:11:08  confirmed   12.0	3042							
+	018F000BE9					18F		399		299
+	018F000BEA									
+	018F000BEB									
+	018F000BEC									
+	018E000BED									
+5	5   25 Jul 2021	16:14:32  confirmed   12.0	3245							
+	0149000CB5					149		329		229
+	0149000CB6									
+	0148000CB7									
+	0148000CB8									
+	0148000CB9									
+6	7   25 Jul 2021	16:18:27  confirmed   11.9	3479							
+	00F9000DA0					0F9		249		149
+	00F9000DA1									
+	00F9000DA2									
+	00F9000DA3									
+	00F9000DA4									
+7	8   25 Jul 2021	16:19:56  confirmed   11.9	3567							
+	00DB000DF9					0DB		219		119
+	00DA000DFA									
+	00DA000DFB									
+	00DB000DFC									
+	00DA000DFD									
+8	9   25 Jul 2021	16:21:51  confirmed   11.9	3681							
+	00B4000E6C					0B4		180		80
+	00B4000E6D									
+	00B3000E6E									
+	00B2000E6F									
+	00B2000E70									
+9	10   25 Jul 202	1 16:23:59  confirmed   11.	9  3808							
+	0096000EEC					96		150		50
+	0096000EED									
+	0095000EEE									
+	0095000EEF									
+	0095000EF0									
+10	11   25 Jul 20	21 16:25:58  confirmed   11	.9  3926							
+	006E000F63					06E		110		10
+	006E000F64									
+	006D000F65									
+	006D000F66									
+	006C000F67									
+A>										

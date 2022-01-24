@@ -1,0 +1,75 @@
+*	Sea-Bird SBE50 D	ata File:								
+*	FileName = C:\Us	ers\jmoffett\Documents\Kilo	2019\Oceanus 2021\Summer Cruise\Cast 1 Sta 27.afm							
+*	Software Version	SeatermAF 2.1.4.55								
+*	Temperature SN =									
+*	Conductivity SN	=								
+*	System UpLoad Ti	me = Aug 02 2021 16:36:14 (	localtime) = Aug 02 2021 23:36:14 (UTC)							
+*	ds									
+*	90208 AFM V 2.0d	SERIAL NO. 87  02 Aug 202	1 16:32:16							
+*	main battery = 1	1.71 volts								
+*	lithium battery	=  3.18 volts								
+*	AFM is NOT ARMED									
+*	A>									
+*E	ND*									
+										
+1	1   02 Aug 2021	09:07:58  confirmed   11.3	671							
+	00DA0002A2					0DA		218		118
+	00DA0002A3									
+	00DA0002A4									
+	00D90002A5									
+	00DA0002A6									
+2	2   02 Aug 2021	09:11:19  confirmed   11.3	871							
+	00C900036B					0C9		201		101
+	00C900036C									
+	00CA00036D									
+	00CB00036E									
+	00CA00036F									
+3	3   02 Aug 2021	09:11:35  confirmed   11.3	886							
+	00C200037B					0C2		194		94
+	00C200037C									
+	00C200037D									
+	00C200037E									
+	00C100037F									
+4	4   02 Aug 2021	09:11:43  confirmed   11.2	893							
+	00BE000383					0BE		190		90
+	00BF000384									
+	00BE000385									
+	00BD000386									
+	00BC000387									
+5	5   02 Aug 2021	09:12:03  confirmed   11.3	912							
+	00B3000397					0B3		179		79
+	00B2000398									
+	00B2000399									
+	00B200039A									
+	00B100039B									
+6	7   02 Aug 2021	09:12:20  confirmed   11.3	928							
+	00AA0003A8					0AA		170		70
+	00AA0003A9									
+	00A90003AA									
+	00A80003AB									
+	00A70003AC									
+7	8   02 Aug 2021	09:12:38  confirmed   11.3	945							
+	00A00003BA					0A0		160		60
+	00A00003BB									
+	00A00003BC									
+	00A00003BD									
+	009F0003BE									
+8	9   02 Aug 2021	09:12:50  confirmed   11.2	956							
+	009A0003C6					09A		154		54
+	00990003C7									
+	00980003C8									
+	00990003C9									
+	00990003CA									
+9	10   02 Aug 202	1 09:13:38  confirmed   11.	3  1003							
+	007F0003F6					07F		127		27
+	007F0003F7									
+	00800003F8									
+	00800003F9									
+	007F0003FA									
+10	11   02 Aug 20	21 09:14:17  confirmed   11	.3  1041							
+	006D00041D					06D		109		9
+	006D00041E									
+	006D00041F									
+	006D000420									
+	006C000421									
+A>										

@@ -1,0 +1,63 @@
+* Sea-Bird SBE50 Data File:
+* FileName = C:\Users\jmoffett\Documents\Kilo 2019\Oceanus 2021\Summer Cruise\Cast 1 Sta 29.afm
+* Software Version SeatermAF 2.1.4.55
+* Temperature SN = 
+* Conductivity SN = 
+* System UpLoad Time = Aug 02 2021 17:07:06 (localtime) = Aug 03 2021 00:07:06 (UTC)
+* ds
+* 90208 AFM V 2.0d  SERIAL NO. 87  02 Aug 2021 17:03:05
+* main battery = 11.60 volts
+* lithium battery =  3.14 volts
+* AFM is NOT ARMED
+* A>
+*END*
+
+1  1   02 Aug 2021 16:47:54  confirmed   11.5  830
+    00BA000341
+    00BA000342
+    00BB000343
+    00BB000344
+    00BB000345
+2  2   02 Aug 2021 16:50:41  confirmed   11.5  996
+    00B10003E8
+    00B00003E9
+    00B00003EA
+    00B00003EB
+    00B00003EC
+3  3   02 Aug 2021 16:50:48  confirmed   11.4  1002
+    00AE0003EF
+    00AE0003F0
+    00AD0003F1
+    00AC0003F2
+    00AC0003F3
+4  4   02 Aug 2021 16:50:56  confirmed   11.4  1009
+    00AA0003F7
+    00AA0003F8
+    00A90003F9
+    00A90003FA
+    00A80003FB
+5  5   02 Aug 2021 16:51:07  confirmed   11.4  1019
+    00A5000402
+    00A4000403
+    00A4000404
+    00A3000405
+    00A2000406
+6  7   02 Aug 2021 16:51:37  confirmed   11.4  1048
+    0095000420
+    0095000421
+    0095000422
+    0094000423
+    0094000424
+7  8   02 Aug 2021 16:52:17  confirmed   11.4  1087
+    0082000448
+    0081000449
+    008100044A
+    008000044B
+    007F00044C
+8  9   02 Aug 2021 16:52:54  confirmed   11.4  1123
+    006E00046D
+    006E00046E
+    006E00046F
+    006E000470
+    006C000471
+A>
