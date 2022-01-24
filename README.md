@@ -1,7 +1,7 @@
 # afm_depth_reader
 python script to read all .afm files in directory and outputs a csv file 
 afm_reader_OC2107A is a specific version of the script that is made for one specific nameing scheme
-afm
+afm_reader_default is a generic version that uses filename
 ## Getting Started
 Download the Python script and make sure you have python installed.
 
