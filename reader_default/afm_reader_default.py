@@ -62,4 +62,5 @@ with open(output_name, "w") as outputFile: #opens/makes a csv file
     writer.writeheader() #writes the header
     for row in total_data: #writes all the data from total_data into the csv
         writer.writerow(row)
+        
 
